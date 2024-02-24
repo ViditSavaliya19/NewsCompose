@@ -7,7 +7,3 @@
 
 
 **News source: NewsApi.org**
-
-  
-
-## Screenshots
