@@ -5,11 +5,8 @@
 - Lifecycle
 - Kotlin Coroutines
 
----------------------------------------------------
 
-# News source: NewsApi.org
-
----------------------------------------------------
+**News source: NewsApi.org**
 
   
 
